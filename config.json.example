@@ -1,0 +1,68 @@
+{
+    "1": {
+        "RPC_URL":"https://mainnet.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+        "SCAN_URL": "https://api.etherscan.io/api?module=contract&action=getabi&address=",
+        "SCAN_API_KEY": "",
+        "RECEIVE_TOKEN": {
+            "USDT": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "USDC": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "DAI": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "JPYC": "0x2370f9d504c7a6E775bf6E14B3F12846b594cD53"
+        },
+        "WRAPED_TOKEN_ADDRESS": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "CONTRACT": {
+            "UNISWAP": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+            "SHUSHI": "0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F"
+        }
+    },
+    "56": {
+        "RPC_URL":"https://bsc-dataseed1.binance.org",
+        "SCAN_URL": "https://api.bscscan.com/api?module=contract&action=getabi&address=",
+        "SCAN_API_KEY": "",
+        "RECEIVE_TOKEN": {
+            "USDT": "0x55d398326f99059ff775485246999027b3197955",
+            "USDC": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+            "DAI": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+            "JPYC": ""
+        },
+       "WRAPED_TOKEN_ADDRESS": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "CONTRACT": {
+            "PANCAKE": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+            "SHUSHI": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+            "BISWAP": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8"
+        }
+    },
+    "137": {
+        "RPC_URL":"https://rpc-mainnet.maticvigil.com/",
+        "SCAN_URL": "https://api.polygonscan.com/api?module=contract&action=getabi&address=",
+        "SCAN_API_KEY": "",
+        "RECEIVE_TOKEN": {
+            "USDT": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+            "USDC": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+            "DAI": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+            "JPYC": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB"
+        },
+        "WRAPED_TOKEN_ADDRESS": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "CONTRACT": {
+            "QUICKSWAP": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+            "SHUSHI": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506"
+        }
+    },
+    "43114": {
+        "RPC_URL":"https://api.avax.network/ext/bc/C/rpc",
+        "SCAN_URL": "https://api.snowtrace.io/api?module=contract&action=getabi&address=",
+        "SCAN_API_KEY": "",
+        "RECEIVE_TOKEN": {
+            "USDT": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "USDC": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+            "DAI": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+            "JPYC": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB"
+        },
+        "WRAPED_TOKEN_ADDRESS": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "CONTRACT": {
+            "TRADER JOE": "0x60aE616a2155Ee3d9A68541Ba4544862310933d4",
+            "PANGOLIN": "0xE54Ca86531e17Ef3616d22Ca28b0D458b6C89106",
+            "SHUSHI": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506"
+        }
+    }
+}
